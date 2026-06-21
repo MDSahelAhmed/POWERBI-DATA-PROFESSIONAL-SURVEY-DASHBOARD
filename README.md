@@ -1,2 +1,2 @@
-# POWERBI-SALES-DASHBOARD
-Interactive sales analytics dashboard built using Power BI to analyze revenue, profit, sales trends, customer performance, and key business KPIs.
+# Powerbi-Data-Professional-Survey-Dashboard
+Interactive Power BI dashboard analyzing survey responses from data professionals, including salary trends, job roles, programming language preferences, and work-life satisfaction.
