@@ -47,4 +47,6 @@ Sahel Ahmed Mohammad
 
 Master of Science in Artificial Intelligence (Data Analytics)
 Indiana Wesleyan University
+## Dashboard Preview
 
+![Dashboard Overview](screenshots/dashboard-overview.png)
